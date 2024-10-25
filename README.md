@@ -8,7 +8,7 @@
     <h1>Welcome to Khanya Beauty Studio</h1>
     <nav>
       <ul>
-        <li><a href="#about">About</a>a</li>
+        <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#contact">Portfolio></a></li>
